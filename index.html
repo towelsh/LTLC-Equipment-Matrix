@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>LTLC Equipment Support Resource</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <center>
+
+      <div id="header">
+        <h1>LTLC Equipment Support Resource</h1>
+      </div>
+      <div id="subheader">
+        <strong>Current status: </strong><span id="status">Either the page is loading, or a syntax error occured. Check the log for more info.</span>
+      </div>
+
+      Select equipment using the dropdown menus below, and options to veiw manuals and information will appear.
+
+      <table>
+        <tr>
+
+          <td>
+              <div class="dropdown">
+                <button class="dropbtn" id="drop1">Loading...</button>
+                <div class="dropdown-content" id="drop1content">
+                  <button>Loading...</button>
+                </div>
+              </div>
+          </td>
+
+          <td id="drop2col"></td>
+
+          <td id="drop3col"></td>
+        
+        </tr>
+      </table>
+      
+      <div id="links-div">
+        <span id="nolinks"></span>
+        <table id="links-table">
+          <tr><td id="link1-td" class="lbutton"><a href="#">Quick guide</a></td></tr>
+          <tr><td id="link2-td" class="lbutton"><a href="#">Clinican manual</a></td></tr>
+          <tr><td id="link3-td" class="lbutton"><a href="#">Training videos</a></td></tr>
+          <tr><td id="link4-td" class="lbutton"><a href="#">Full manual</a></td></tr>
+          <tr><td id="link5-td" class="lbutton"><a href="#">Technical / advanced</a></td></tr>
+          <tr><td id="link6-td" class="lbutton"><a href="#">Other training</a></td></tr>
+        </table>
+      </div>
+
+      Can't find the equipment you are looking for? Please email LTLC@hee.nhs.uk stating the type, make and model of the equipment and we will do our best to add some resources. 
+
+    </center>
+    <span id="data-content"></span>
+  </body>
+</html>

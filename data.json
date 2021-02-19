@@ -1,0 +1,1245 @@
+{ "equipment": [
+	{
+		"type": "Point of Care ",
+		"manufacturer": "ABG - Radiometer ",
+		"model": "ABL 800 Flex ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/617323",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "CareFusion ",
+		"model": "Alaris GP/GP Plus ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613615",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613625"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Generic Ventilator ",
+		"model": "Alarm Ref Guide ",
+		 
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639062",
+		 
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Shenzhen Ambulance ",
+		"model": "Ambulanc T7",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633081",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643540",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631017",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Codan",
+		"model": "Argus 606S",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613693",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613699"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Codan ",
+		"model": "Argus 708 ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613657",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613663"
+	},
+	{
+		"type": "Anaesthetics machine ",
+		"manufacturer": "OES Medical",
+		"model": "Astra3i (with cynus vent)",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636642",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639424",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631010",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633061",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Vyaire Medical ",
+		"model": "Bellavista 1000",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623152",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633087",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629712",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629904",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629897",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Vyaire Medical ",
+		"model": "Bellavista 1000e",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623101",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633093",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629796",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629890",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629883",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Philips",
+		"model": "BIPAP A30/40",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620859",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633111",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626522",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631216",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Philips",
+		"model": "BIPAP ST System 1",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620785",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633117",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626536",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631223",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Hamilton ",
+		"model": "C3",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636708",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637542",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/633027",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633034",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Hamilton ",
+		"model": "C6",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/637588",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637594",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/637600",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633041",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "GE Healthcare ",
+		"model": "Carescape R860 ",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623092",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639541",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/626073",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626066",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629955",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "CareFusion-Alaris",
+		"model": "CC Classic ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613857",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613863"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Baxter ",
+		"model": "Colleague ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613530",
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/613566",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613551"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Baxter ",
+		"model": "Colleague P1.7",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613580",
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/613591",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613597"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Northen Meditec",
+		"model": "Crius V6",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633068",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637455",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633074",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Chen Wei ",
+		"model": "CWH3010",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627883",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637536",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629756",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Philips",
+		"model": "Dreamstation S/T",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623080",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639374",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629776",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631230",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Loewenstein Medical ",
+		"model": "Elisa 600 ",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633048",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639478",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633054",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Anaesthetics machine ",
+		"manufacturer": "Penlon",
+		"model": "ESO2",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620366",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/621278",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620844",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/646931",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Medacx",
+		"model": "EVE-IN2",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/637631",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639466",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631066",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/643429"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Drager ",
+		"model": "Evita V500",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/652102",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/684375",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620492",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Drager ",
+		"model": "Evita XL",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633021",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639523",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/630944",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630951",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Flight Medical ",
+		"model": "Flight 60 ",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627889",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639535",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/628334",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629948",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629941",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Feeding pump ",
+		"manufacturer": "Nutricia",
+		"model": "Flocare ",
+		 
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/684307",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/617350",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Hamilton ",
+		"model": "G5",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620454",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637607",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626080",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629962",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Thermometer ",
+		"manufacturer": "Tympanic - Cardinal Health",
+		"model": "Genius 3",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/617341",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "CareFusion-Alaris",
+		"model": "GH Classic ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613827",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613839"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Hawkmed",
+		"model": "HK100",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/651987",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/651999",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652011",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/651993",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652005",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Hawk ",
+		"model": "HK4000III",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631196",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/631189",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/631182",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631202",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631209",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Medcaptain",
+		"model": "HP30",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628390",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/628383",
+		"training_videos": "http://portal.e-lfh.org.uk/Component/Details/628376",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/628411",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/628397",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Patient Monitor",
+		"manufacturer": "Edan ",
+		"model": "iM80/70/60/50",
+		 
+		 
+		 
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/617335"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Generic Ventilator ",
+		"model": "Info re elfh Ventilator resources",
+		 
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636666",
+		 
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "B Braun ",
+		"model": "Infusomat ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613631",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613637"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Fresenius Kabi ",
+		"model": "Injectomat & Volumat ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/617434",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Generic SyringePump",
+		"model": "Introduction SP",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613621",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Blood Pressure Monitoring ",
+		"manufacturer": "Generic BP",
+		"model": "Introduction BP",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613648",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Thermometer ",
+		"manufacturer": "Generic Temp(non-invasive) ",
+		"model": "Introduction Temp",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613719",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Pulse Oximetry",
+		"manufacturer": "Generic Pulse Oximetry",
+		"model": "Introduction PulseO",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613705",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Generic VolPump",
+		"model": "Introduction VP",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613513",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Point of Care ",
+		"manufacturer": "ABG - I-Stat",
+		"model": "I-Stat",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/617327",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "MS Westfalia",
+		"model": "Jenny",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623136",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639430",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631083",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629920",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Fresenius ",
+		"model": "Kabi-Injectomat Agilia",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613845",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613851"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "ResMed",
+		"model": "Lumis 100ST",
+		 
+		 
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626487",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "ResMed",
+		"model": "Lumis 150 ST",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631103",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637475",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631116",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631109",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "ResMed",
+		"model": "Lumis 150 ST-A",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623074",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636677",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626508",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629691",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Suction ",
+		"manufacturer": "Tongye",
+		"model": "MC600-C",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/643603",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633404",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/637228",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/633398",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/637222",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Generic Ventilator ",
+		"model": "Mech Vent Consumables ",
+		 
+		 
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643588",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Weinmann Medumat ",
+		"model": "Meduvent",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627902",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639365",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629876",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629869",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Medfusion ",
+		"model": "model4000",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628425",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/628418",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/628432",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Anaesthetics machine ",
+		"manufacturer": "Penlon",
+		"model": "model465",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620460",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641713",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643519",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Prunus Boaray ",
+		"model": "model5000D ",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631024",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639389",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631251",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631030",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Breas",
+		"model": "Nippy4+",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636683",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636863",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/639500",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/636870",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652084",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/643411"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Generic NIV",
+		"model": "NIV consumables ",
+		 
+		 
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643593",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Drager ",
+		"model": "Oxylog 3000 Plus ",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627877",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639529",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629677",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629684",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Medtronic",
+		"model": "PB760",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623124",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639442",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626094",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631244",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Medtronic",
+		"model": "PB980",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623130",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639454",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629997",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626101",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630003",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Smiths ",
+		"model": "Pneupac ParaPAC Plus 300 ",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620599",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/620791",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/648587",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/620605",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/648594",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/648601"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Smiths ",
+		"model": "Pneupac ParaPAC Plus 310",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620629",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643533",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/648667",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643533",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/620499",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/648681"
+	},
+	{
+		"type": "Anaesthetics machine ",
+		"manufacturer": "Penlon",
+		"model": "Prima 450",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620850",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639412",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643505",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/643512",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Loewenstein Medical ",
+		"model": "Prisma Vent50-C",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620838",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636671",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626087",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630043",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Siriusmed",
+		"model": "R50 (with compressor)",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630997",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639395",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631003",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Philips",
+		"model": "Respironics Trilogy 100 ",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630031",
+		"clinican_manual": "",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629763",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631237",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Philips",
+		"model": "Respironics Trilogy 202",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631090",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639380",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643546",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631096",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Philips",
+		"model": "Respironics Trilogy EVO",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/641731",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641737",
+		 
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Generic SyringePump",
+		"model": "Risk Management SP ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613526",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Generic VolPump",
+		"model": "Risk Management VP",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613517",
+		 
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Nanjing Superstar",
+		"model": "S1100A",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623146",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/642020",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630010",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Beyond Sunfusion",
+		"model": "Semi-1",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/626693",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/631149",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/626699",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626706",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Maquet ",
+		"model": "Servo Air",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630978",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639460",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/630964",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630971",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Maquet ",
+		"model": "Servo-I",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627865",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639472",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629698",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629705",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Maquet ",
+		"model": "Servo-U",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623113",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636824",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629983",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629990",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Beijing Eternity Electronics Technology Co. Ltd ",
+		"model": "SH300",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633015",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639512",
+		 
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630937",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "CareFusion ",
+		"model": "Signature Edition ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613603",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613609"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Sino Medical ",
+		"model": "SN-1800V",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/638007",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/638034",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/638027",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/638020",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/638013",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "DeepMed ",
+		"model": "SP3",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/652027",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/652039",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652057",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/652033",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652051",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Braun-Perfusor",
+		"model": "Space ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613805",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613811"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Weinmann Medumat ",
+		"model": "Standard 2",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628269",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639401",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629736",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629743",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Mindray",
+		"model": "SV300",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630984",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639484",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633456",
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630990",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/633450"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Mindray",
+		"model": "SV600",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631041",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639436",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633468",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631054",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631047",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/633462"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Biomed ",
+		"model": "TV-100",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623086",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636804",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620773",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629927",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629934",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Generic Ventilator ",
+		"model": "Ventilator challenge consumables ",
+		 
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Inovytec ",
+		"model": "Ventway Sparrow",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633003",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641917",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620808",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629969",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629976",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "AeonMed ",
+		"model": "VG70",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620448",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636695",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/664066",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/654394",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/646999"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Breas",
+		"model": "Vivo 1",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623068",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633099",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629770",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629855",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629841",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Breas",
+		"model": "Vivo 2",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633105",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
+		"full_manual": "",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Breas",
+		"model": "Vivo 3",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633254",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629809",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Breas ",
+		"model": "Vivo65",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636689",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636810",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/639506",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/636817",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652091",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/642082"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Fresenius Kabi ",
+		"model": "Volumat Mc Agilia ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613687",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613681"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Zoll",
+		"model": "Z-Vent",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/629783",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641725",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629789",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629828",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "CareFusion ",
+		"model": "Signature Edition ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613603",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613610"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Sino Medical ",
+		"model": "SN-1800V",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/666047",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/666044",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/638027",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/666046",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/666089",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "DeepMed ",
+		"model": "SP4",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/680067",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/680049",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652057",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/680059",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/680127",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Braun-Perfusor",
+		"model": "Space ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613805",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613812"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Weinmann Medumat ",
+		"model": "Standard 3",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628269",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639401",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629736",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629743",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Mindray",
+		"model": "SV900",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630984",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639484",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633456",
+		 
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630990",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/633474"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Mindray",
+		"model": "SV1200",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631041",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639436",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633468",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631054",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631047",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/633486"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Biomed ",
+		"model": "TV-101",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623086",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636804",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620773",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629927",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629934",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Generic Ventilator ",
+		"model": "Ventilator challenge consumables ",
+		 
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
+		 
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Inovytec ",
+		"model": "Ventway Sparrow",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633003",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641917",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620808",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629969",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629976",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "AeonMed ",
+		"model": "VG71",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620448",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636695",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/664066",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/654394",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/646999"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Breas",
+		"model": "Vivo 1",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623068",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633099",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629770",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629855",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629841",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Breas",
+		"model": "Vivo 2",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633105",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
+		"full_manual": "",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "NIV",
+		"manufacturer": "Breas",
+		"model": "Vivo 3",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633254",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629809",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Breas ",
+		"model": "Vivo65",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636689",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636810",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/639506",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/636817",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652091",
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/585280"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Fresenius Kabi ",
+		"model": "Volumat Mc Agilia ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613687",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/556879"
+	},
+	{
+		"type": "Ventilator ",
+		"manufacturer": "Zoll",
+		"model": "Z-Vent",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/629783",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641725",
+		 
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629789",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629828",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "CareFusion ",
+		"model": "Signature Edition ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613603",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613611"
+	},
+	{
+		"type": "Volumetric pump",
+		"manufacturer": "Sino Medical ",
+		"model": "SN-1800V",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/694087",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/694054",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/638027",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/694072",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/694165",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "DeepMed ",
+		"model": "SP5",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/708107",
+		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/708059",
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652057",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/708085",
+		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/708203",
+		 "dummy":"dummy"
+	},
+	{
+		"type": "Syringe Pump",
+		"manufacturer": "Braun-Perfusor",
+		"model": "Space ",
+		 
+		 
+		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/613805",
+		 
+		 
+		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613813"
+	}
+]}

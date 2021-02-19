@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:wght@700&display=swap');
+
+body {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+#header {
+  background-color: cornflowerblue;
+  color: rgb(39, 69, 124);
+  padding-bottom: 1px;
+  padding-top: 5px;
+  margin-bottom: 3px;
+}
+
+#subheader {
+  background-color: coral;
+  color: rgb(131, 61, 36);
+  padding-bottom: 1px;
+  padding-top: 5px;
+  margin-bottom: 3px;
+}
+
+#links-div {
+  margin-top: 40px;
+  /* background-color: greenyellow; */
+  color: black;
+  margin-bottom: 40px;
+}
+
+.lbutton {
+  background-color: rgb(91, 91, 240);
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  text-align: center;
+}
+
+a:visited, a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#link3-td {
+  margin-top: 10px;
+}
+
+#link4-td {
+  margin-top: 10px;
+}
+
+/* Dropdown Button */
+
+.dropbtn {
+  background-color: rgb(124, 170, 255);
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content button {
+  color: black;
+  padding: 6px 6px;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+}
+
+.dropdown-content button:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: rgb(41, 87, 172);}
