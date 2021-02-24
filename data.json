@@ -26,7 +26,7 @@
 		"manufacturer": "Generic Ventilator ",
 		"model": "Alarm Ref Guide ",
 		 
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639062",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639062",
 		 
 		 
 		 
@@ -37,7 +37,7 @@
 		"manufacturer": "Shenzhen Ambulance ",
 		"model": "Ambulanc T7",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633081",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643540",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/643540",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631017",
@@ -66,11 +66,11 @@
 		"other_training": "https://portal.e-lfh.org.uk/Component/Details/613663"
 	},
 	{
-		"type": "Anaesthetics machine ",
+		"type": "Anaesthetic machine ",
 		"manufacturer": "OES Medical",
 		"model": "Astra3i (with cynus vent)",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636642",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639424",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639424",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631010",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633061",
@@ -81,7 +81,7 @@
 		"manufacturer": "Vyaire Medical ",
 		"model": "Bellavista 1000",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623152",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633087",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633087",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629712",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629904",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629897",
@@ -92,7 +92,7 @@
 		"manufacturer": "Vyaire Medical ",
 		"model": "Bellavista 1000e",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623101",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633093",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633093",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629796",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629890",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629883",
@@ -103,7 +103,7 @@
 		"manufacturer": "Philips",
 		"model": "BIPAP A30/40",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620859",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633111",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633111",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626522",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631216",
@@ -114,7 +114,7 @@
 		"manufacturer": "Philips",
 		"model": "BIPAP ST System 1",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620785",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633117",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633117",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626536",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631223",
@@ -125,7 +125,7 @@
 		"manufacturer": "Hamilton ",
 		"model": "C3",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636708",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637542",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/637542",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/633027",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633034",
@@ -136,7 +136,7 @@
 		"manufacturer": "Hamilton ",
 		"model": "C6",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/637588",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637594",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/637594",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/637600",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633041",
@@ -147,7 +147,7 @@
 		"manufacturer": "GE Healthcare ",
 		"model": "Carescape R860 ",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623092",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639541",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639541",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/626073",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626066",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629955",
@@ -191,7 +191,7 @@
 		"manufacturer": "Northen Meditec",
 		"model": "Crius V6",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633068",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637455",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/637455",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633074",
@@ -202,7 +202,7 @@
 		"manufacturer": "Chen Wei ",
 		"model": "CWH3010",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627883",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637536",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/637536",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629756",
@@ -213,7 +213,7 @@
 		"manufacturer": "Philips",
 		"model": "Dreamstation S/T",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623080",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639374",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639374",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629776",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631230",
@@ -224,18 +224,18 @@
 		"manufacturer": "Loewenstein Medical ",
 		"model": "Elisa 600 ",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633048",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639478",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639478",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/633054",
 		 "dummy":"dummy"
 	},
 	{
-		"type": "Anaesthetics machine ",
+		"type": "Anaesthetic machine ",
 		"manufacturer": "Penlon",
 		"model": "ESO2",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620366",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/621278",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/621278",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620844",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/646931",
 		 
@@ -246,7 +246,7 @@
 		"manufacturer": "Medacx",
 		"model": "EVE-IN2",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/637631",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639466",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639466",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631066",
@@ -257,7 +257,7 @@
 		"manufacturer": "Drager ",
 		"model": "Evita V500",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/652102",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/684375",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/684375",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620492",
 		 
 		 
@@ -268,7 +268,7 @@
 		"manufacturer": "Drager ",
 		"model": "Evita XL",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633021",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639523",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639523",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/630944",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630951",
@@ -279,7 +279,7 @@
 		"manufacturer": "Flight Medical ",
 		"model": "Flight 60 ",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627889",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639535",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639535",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/628334",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629948",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629941",
@@ -290,7 +290,7 @@
 		"manufacturer": "Nutricia",
 		"model": "Flocare ",
 		 
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/684307",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/684307",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/617350",
 		 
 		 
@@ -301,7 +301,7 @@
 		"manufacturer": "Hamilton ",
 		"model": "G5",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620454",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637607",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/637607",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626080",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629962",
@@ -334,7 +334,7 @@
 		"manufacturer": "Hawkmed",
 		"model": "HK100",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/651987",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/651999",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/651999",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652011",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/651993",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652005",
@@ -345,7 +345,7 @@
 		"manufacturer": "Hawk ",
 		"model": "HK4000III",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631196",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/631189",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/631189",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/631182",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631202",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631209",
@@ -356,7 +356,7 @@
 		"manufacturer": "Medcaptain",
 		"model": "HP30",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628390",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/628383",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/628383",
 		"training_videos": "http://portal.e-lfh.org.uk/Component/Details/628376",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/628411",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/628397",
@@ -378,7 +378,7 @@
 		"manufacturer": "Generic Ventilator ",
 		"model": "Info re elfh Ventilator resources",
 		 
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636666",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636666",
 		 
 		 
 		 
@@ -477,7 +477,7 @@
 		"manufacturer": "MS Westfalia",
 		"model": "Jenny",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623136",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639430",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639430",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631083",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629920",
@@ -510,7 +510,7 @@
 		"manufacturer": "ResMed",
 		"model": "Lumis 150 ST",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631103",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/637475",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/637475",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631116",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631109",
@@ -521,7 +521,7 @@
 		"manufacturer": "ResMed",
 		"model": "Lumis 150 ST-A",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623074",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636677",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636677",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626508",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629691",
@@ -532,7 +532,7 @@
 		"manufacturer": "Tongye",
 		"model": "MC600-C",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/643603",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633404",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633404",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/637228",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/633398",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/637222",
@@ -554,7 +554,7 @@
 		"manufacturer": "Weinmann Medumat ",
 		"model": "Meduvent",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627902",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639365",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639365",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629876",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629869",
@@ -565,18 +565,18 @@
 		"manufacturer": "Medfusion ",
 		"model": "model4000",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628425",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/628418",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/628418",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/628432",
 		 
 		 "dummy":"dummy"
 	},
 	{
-		"type": "Anaesthetics machine ",
+		"type": "Anaesthetic machine ",
 		"manufacturer": "Penlon",
 		"model": "model465",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620460",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641713",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/641713",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643519",
 		 
@@ -587,7 +587,7 @@
 		"manufacturer": "Prunus Boaray ",
 		"model": "model5000D ",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631024",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639389",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639389",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631251",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631030",
@@ -598,7 +598,7 @@
 		"manufacturer": "Breas",
 		"model": "Nippy4+",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636683",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636863",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636863",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/639500",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/636870",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652084",
@@ -620,7 +620,7 @@
 		"manufacturer": "Drager ",
 		"model": "Oxylog 3000 Plus ",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627877",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639529",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639529",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629677",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629684",
@@ -631,7 +631,7 @@
 		"manufacturer": "Medtronic",
 		"model": "PB760",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623124",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639442",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639442",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626094",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631244",
@@ -642,7 +642,7 @@
 		"manufacturer": "Medtronic",
 		"model": "PB980",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623130",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639454",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639454",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629997",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626101",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630003",
@@ -653,7 +653,7 @@
 		"manufacturer": "Smiths ",
 		"model": "Pneupac ParaPAC Plus 300 ",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620599",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/620791",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/620791",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/648587",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/620605",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/648594",
@@ -664,18 +664,18 @@
 		"manufacturer": "Smiths ",
 		"model": "Pneupac ParaPAC Plus 310",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620629",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643533",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/643533",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/648667",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643533",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/620499",
 		"other_training": "https://portal.e-lfh.org.uk/Component/Details/648681"
 	},
 	{
-		"type": "Anaesthetics machine ",
+		"type": "Anaesthetic machine ",
 		"manufacturer": "Penlon",
 		"model": "Prima 450",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620850",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639412",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639412",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643505",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/643512",
@@ -686,7 +686,7 @@
 		"manufacturer": "Loewenstein Medical ",
 		"model": "Prisma Vent50-C",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620838",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636671",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636671",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626087",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630043",
@@ -697,7 +697,7 @@
 		"manufacturer": "Siriusmed",
 		"model": "R50 (with compressor)",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630997",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639395",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639395",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631003",
@@ -708,7 +708,7 @@
 		"manufacturer": "Philips",
 		"model": "Respironics Trilogy 100 ",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630031",
-		"clinican_manual": "",
+		"clinician_manual": "",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629763",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631237",
@@ -719,7 +719,7 @@
 		"manufacturer": "Philips",
 		"model": "Respironics Trilogy 202",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631090",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639380",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639380",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643546",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631096",
@@ -730,7 +730,7 @@
 		"manufacturer": "Philips",
 		"model": "Respironics Trilogy EVO",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/641731",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641737",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/641737",
 		 
 		 
 		 
@@ -763,7 +763,7 @@
 		"manufacturer": "Nanjing Superstar",
 		"model": "S1100A",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623146",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/642020",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/642020",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630010",
@@ -774,7 +774,7 @@
 		"manufacturer": "Beyond Sunfusion",
 		"model": "Semi-1",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/626693",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/631149",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/631149",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/626699",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/626706",
 		 
@@ -785,7 +785,7 @@
 		"manufacturer": "Maquet ",
 		"model": "Servo Air",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630978",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639460",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639460",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/630964",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630971",
@@ -796,7 +796,7 @@
 		"manufacturer": "Maquet ",
 		"model": "Servo-I",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/627865",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639472",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639472",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629698",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629705",
@@ -807,7 +807,7 @@
 		"manufacturer": "Maquet ",
 		"model": "Servo-U",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623113",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636824",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636824",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629983",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629990",
@@ -818,7 +818,7 @@
 		"manufacturer": "Beijing Eternity Electronics Technology Co. Ltd ",
 		"model": "SH300",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633015",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639512",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639512",
 		 
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630937",
@@ -840,7 +840,7 @@
 		"manufacturer": "Sino Medical ",
 		"model": "SN-1800V",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/638007",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/638034",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/638034",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/638027",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/638020",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/638013",
@@ -851,7 +851,7 @@
 		"manufacturer": "DeepMed ",
 		"model": "SP3",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/652027",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/652039",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/652039",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652057",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/652033",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652051",
@@ -873,7 +873,7 @@
 		"manufacturer": "Weinmann Medumat ",
 		"model": "Standard 2",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628269",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639401",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639401",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629736",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629743",
@@ -884,7 +884,7 @@
 		"manufacturer": "Mindray",
 		"model": "SV300",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630984",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639484",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639484",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633456",
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630990",
@@ -895,7 +895,7 @@
 		"manufacturer": "Mindray",
 		"model": "SV600",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631041",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639436",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639436",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633468",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631054",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631047",
@@ -906,7 +906,7 @@
 		"manufacturer": "Biomed ",
 		"model": "TV-100",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623086",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636804",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636804",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620773",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629927",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629934",
@@ -917,7 +917,7 @@
 		"manufacturer": "Generic Ventilator ",
 		"model": "Ventilator challenge consumables ",
 		 
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
 		 
@@ -928,7 +928,7 @@
 		"manufacturer": "Inovytec ",
 		"model": "Ventway Sparrow",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633003",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641917",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/641917",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620808",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629969",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629976",
@@ -939,7 +939,7 @@
 		"manufacturer": "AeonMed ",
 		"model": "VG70",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620448",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636695",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636695",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/664066",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/654394",
@@ -950,7 +950,7 @@
 		"manufacturer": "Breas",
 		"model": "Vivo 1",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623068",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633099",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633099",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629770",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629855",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629841",
@@ -961,7 +961,7 @@
 		"manufacturer": "Breas",
 		"model": "Vivo 2",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633105",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633105",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
 		"full_manual": "",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
@@ -972,7 +972,7 @@
 		"manufacturer": "Breas",
 		"model": "Vivo 3",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633254",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633254",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629809",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
@@ -983,7 +983,7 @@
 		"manufacturer": "Breas ",
 		"model": "Vivo65",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636689",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636810",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636810",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/639506",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/636817",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652091",
@@ -1005,7 +1005,7 @@
 		"manufacturer": "Zoll",
 		"model": "Z-Vent",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/629783",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641725",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/641725",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629789",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629828",
@@ -1027,7 +1027,7 @@
 		"manufacturer": "Sino Medical ",
 		"model": "SN-1800V",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/666047",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/666044",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/666044",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/638027",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/666046",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/666089",
@@ -1038,7 +1038,7 @@
 		"manufacturer": "DeepMed ",
 		"model": "SP4",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/680067",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/680049",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/680049",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652057",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/680059",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/680127",
@@ -1060,7 +1060,7 @@
 		"manufacturer": "Weinmann Medumat ",
 		"model": "Standard 3",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/628269",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639401",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639401",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629736",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629743",
@@ -1071,7 +1071,7 @@
 		"manufacturer": "Mindray",
 		"model": "SV900",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/630984",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639484",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639484",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633456",
 		 
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/630990",
@@ -1082,7 +1082,7 @@
 		"manufacturer": "Mindray",
 		"model": "SV1200",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/631041",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/639436",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/639436",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/633468",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/631054",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631047",
@@ -1093,7 +1093,7 @@
 		"manufacturer": "Biomed ",
 		"model": "TV-101",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623086",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636804",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636804",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620773",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629927",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629934",
@@ -1104,7 +1104,7 @@
 		"manufacturer": "Generic Ventilator ",
 		"model": "Ventilator challenge consumables ",
 		 
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/643598",
 		 
@@ -1115,7 +1115,7 @@
 		"manufacturer": "Inovytec ",
 		"model": "Ventway Sparrow",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/633003",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641917",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/641917",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/620808",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629969",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629976",
@@ -1126,7 +1126,7 @@
 		"manufacturer": "AeonMed ",
 		"model": "VG71",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620448",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636695",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636695",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/664066",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/654394",
@@ -1137,7 +1137,7 @@
 		"manufacturer": "Breas",
 		"model": "Vivo 1",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623068",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633099",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633099",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629770",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629855",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629841",
@@ -1148,7 +1148,7 @@
 		"manufacturer": "Breas",
 		"model": "Vivo 2",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633105",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633105",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
 		"full_manual": "",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
@@ -1159,7 +1159,7 @@
 		"manufacturer": "Breas",
 		"model": "Vivo 3",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/633254",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633254",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629809",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
@@ -1170,7 +1170,7 @@
 		"manufacturer": "Breas ",
 		"model": "Vivo65",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/636689",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/636810",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/636810",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/639506",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/636817",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/652091",
@@ -1192,7 +1192,7 @@
 		"manufacturer": "Zoll",
 		"model": "Z-Vent",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/629783",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/641725",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/641725",
 		 
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629789",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629828",
@@ -1214,7 +1214,7 @@
 		"manufacturer": "Sino Medical ",
 		"model": "SN-1800V",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/694087",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/694054",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/694054",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/638027",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/694072",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/694165",
@@ -1225,7 +1225,7 @@
 		"manufacturer": "DeepMed ",
 		"model": "SP5",
 		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/708107",
-		"clinican_manual": "https://portal.e-lfh.org.uk/Component/Details/708059",
+		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/708059",
 		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/652057",
 		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/708085",
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/708203",

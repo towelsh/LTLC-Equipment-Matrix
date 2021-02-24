@@ -21,7 +21,7 @@ var drop3html = '<div class="dropdown"><button class="dropbtn" id="drop3">Loadin
 // Only the ones needed will be shown.
 // Replace %s with link
 var link1html = '<tr><td id="link1-td" class="lbutton"><a target="_blank" href="%s">Quick guide</a></td></tr>';
-var link2html = '<tr><td id="link2-td" class="lbutton"><a target="_blank" href="%s">Clinican manual</a></td></tr>';
+var link2html = '<tr><td id="link2-td" class="lbutton"><a target="_blank" href="%s">Clinician manual</a></td></tr>';
 var link3html = '<tr><td id="link3-td" class="lbutton"><a target="_blank" href="%s">Training videos</a></td></tr>';
 var link4html = '<tr><td id="link4-td" class="lbutton"><a target="_blank" href="%s">Full manual</a></td></tr>';
 var link5html = '<tr><td id="link5-td" class="lbutton"><a target="_blank" href="%s">Technical / advanced</a></td></tr>';
@@ -128,11 +128,11 @@ function getLinkData() {
         console.log("\nUnable to find quick guide data for requested item.");
       }
       
-      if (typeof(data.equipment[n].clinican_manual) != 'undefined') {
-        let add = '<tr><td id="link2-td" class="lbutton"><a target="_blank" href="'+data.equipment[n].clinican_manual+'">Clinican manual</a></td></tr>';
+      if (typeof(data.equipment[n].clinician_manual) != 'undefined') {
+        let add = '<tr><td id="link2-td" class="lbutton"><a target="_blank" href="'+data.equipment[n].clinician_manual+'">Clinician manual</a></td></tr>';
         document.getElementById("links-table").innerHTML = document.getElementById("links-table").innerHTML + add;
       } else {
-        console.log("\nUnable to find clinican manual data for requested item.");
+        console.log("\nUnable to find clinician manual data for requested item.");
       }
 
       if (typeof(data.equipment[n].training_videos) != 'undefined') {
@@ -167,7 +167,7 @@ function getLinkData() {
 
       if (
         typeof(data.equipment[n].quick_guide) == "undefined" &&
-        typeof(data.equipment[n].clinican_manual) == "undefined" &&
+        typeof(data.equipment[n].clinician_manual) == "undefined" &&
         typeof(data.equipment[n].training_videos) == "undefined" &&
         typeof(data.equipment[n].full_manual) == "undefined" &&
         typeof(data.equipment[n].technical_advanced) == "undefined" &&
