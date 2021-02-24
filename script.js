@@ -163,6 +163,8 @@ function getLinkData() {
         console.log("\nUnable to find other training data for requested item.");
       }
 
+      // Add more here to add a new resource type
+
       if (
         typeof(data.equipment[n].quick_guide) == "undefined" &&
         typeof(data.equipment[n].clinican_manual) == "undefined" &&
