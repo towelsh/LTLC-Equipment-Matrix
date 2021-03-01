@@ -47,6 +47,10 @@ a:hover {
   cursor: pointer;
 }
 
+a.link:link, a.link:visited {
+  color: blue;
+}
+
 #link3-td {
   margin-top: 10px;
 }
