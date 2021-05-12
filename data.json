@@ -43,6 +43,28 @@
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/631017",
 		 "dummy":"dummy"
 	},
+  {
+		"type": "Ventilator",
+		"manufacturer": "Breas",
+		"model": "Nippy3+",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/684207",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/684213",
+		 
+		 
+		
+		 "dummy":"dummy"
+	},
+    {
+		"type": "Ventilator",
+		"manufacturer": "Breas",
+		"model": "Nippy Junior",
+		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/684231",
+		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/684237",
+		 
+		 
+		
+		 "dummy":"dummy"
+	},
 	{
 		"type": "SyringePump",
 		"manufacturer": "Codan",
