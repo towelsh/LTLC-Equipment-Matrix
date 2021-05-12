@@ -1176,39 +1176,7 @@
 		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/654394",
 		"other_training": "https://portal.e-lfh.org.uk/Component/Details/646999"
 	},
-	{
-		"type": "NIV",
-		"manufacturer": "Breas",
-		"model": "Vivo 1",
-		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/623068",
-		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633099",
-		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629770",
-		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629855",
-		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629841",
-		 "dummy":"dummy"
-	},
-	{
-		"type": "NIV",
-		"manufacturer": "Breas",
-		"model": "Vivo 2",
-		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
-		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633105",
-		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
-		"full_manual": "",
-		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
-		 "dummy":"dummy"
-	},
-	{
-		"type": "NIV",
-		"manufacturer": "Breas",
-		"model": "Vivo 3",
-		"quick_guide": "https://portal.e-lfh.org.uk/Component/Details/620407",
-		"clinician_manual": "https://portal.e-lfh.org.uk/Component/Details/633254",
-		"training_videos": "https://portal.e-lfh.org.uk/Component/Details/629822",
-		"full_manual": "https://portal.e-lfh.org.uk/Component/Details/629809",
-		"technical_advanced": "https://portal.e-lfh.org.uk/Component/Details/629802",
-		 "dummy":"dummy"
-	},
+	
 	{
 		"type": "Ventilator",
 		"manufacturer": "Breas",
